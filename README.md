@@ -1,6 +1,6 @@
 ## leetcode
 
-跟着[ConardLi](https://github.com/ConardLi)和labuladong刷leetcode
+跟着[ConardLi](https://github.com/ConardLi) & labuladong & 花花酱刷leetcode
 
 总结规律和详解在issue
 
