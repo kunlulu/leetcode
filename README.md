@@ -16,5 +16,5 @@
 
 [二叉树的最大/最小深度 - lc.104 & 111](https://github.com/kunlulu/leetcode/issues/5)
 
-[二叉树路径总和 - lc.112 & 113](https://github.com/kunlulu/leetcode/issues/6)
+[二叉树路径和 - lc.112 & 113 & 124](https://github.com/kunlulu/leetcode/issues/6)
 
