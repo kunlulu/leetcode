@@ -24,6 +24,17 @@ var twoSum = function (nums, target) {
         // 没找到的话就先把key: index记录下来
         obj.set(nums[index], index)
     }
+    
+//   let obj = {};
+//   for (let i = 0; i < nums.length; i++) {
+//     // 必须要用map来做，obj不能用number做key，因此以下判断不成立
+//     // 获得的键值为 { \'2\': 0, \'7\': 1, \'11\': 2 }，不是number
+//     if (Object.keys(obj).includes(target - nums[i])) {
+//       console.log("obj", obj);
+//       return [obj[target - nums[i]], i];
+//     }
+//     obj[nums[i]] = i;
+//   }
 };
 // @lc code=end
 
